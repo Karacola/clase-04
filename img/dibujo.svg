@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="917"
+   height="341"
+   viewBox="0 0 242.62286 90.222903"
+   version="1.1"
+   id="svg25001"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25003"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1800mm"
+     units="px"
+     inkscape:zoom="1.1789508"
+     inkscape:cx="542.85556"
+     inkscape:cy="296.45003"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs24998">
+    <rect
+       x="91.081793"
+       y="308.7895"
+       width="134.40119"
+       height="24.436564"
+       id="rect80334" />
+    <rect
+       x="287.68517"
+       y="16.661303"
+       width="315.45401"
+       height="62.202199"
+       id="rect49899" />
+    <rect
+       x="201.04639"
+       y="-2.2215071"
+       width="493.17458"
+       height="41.097882"
+       id="rect37977" />
+    <rect
+       x="91.081795"
+       y="308.78949"
+       width="134.40118"
+       height="24.436563"
+       id="rect80334-6" />
+    <rect
+       x="91.081795"
+       y="308.78949"
+       width="134.40118"
+       height="24.436563"
+       id="rect80334-4" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="80.212784"
+       height="80.212784"
+       preserveAspectRatio="none"
+       xlink:href="img/setosa.jpg"
+       id="image25013"
+       x="164.73979"
+       y="10.07698" />
+    <image
+       width="107.08779"
+       height="80.315842"
+       preserveAspectRatio="none"
+       xlink:href="img/versicolor.jpg"
+       id="image25025"
+       x="-13.468618"
+       y="10.07698" />
+    <image
+       width="80.132576"
+       height="80.212784"
+       preserveAspectRatio="none"
+       xlink:href="img/virginica.jpg"
+       id="image25129"
+       x="84.607216"
+       y="10.07698" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text37975"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37977);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="201.04688"
+         y="75.370166"
+         id="tspan96826"><tspan
+           dx="0 24.648438 16.835938 24.121094 31.484375 27.34375 14.0625 30.820312 25.292969"
+           id="tspan96824">TIPOS DE </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.0572082,-2.9388688)"
+       id="text49897"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect49899);fill:#000000;fill-opacity:1;stroke:none"
+       x="137.80615"
+       y="0"><tspan
+         x="306.83772"
+         y="40.990949"
+         id="tspan96830"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan96828">TIPOS DE FLOR IRIS</tspan></tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect69513"
+       width="35.560314"
+       height="6.4655113"
+       x="24.098724"
+       y="81.700554" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect69513-0"
+       width="35.560314"
+       height="6.4655113"
+       x="106.53399"
+       y="82.582214" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect69513-5"
+       width="35.560314"
+       height="6.4655113"
+       x="187.05899"
+       y="81.700554" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,0.52916667)"
+       id="text80332"
+       style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect80334);fill:#ffffff"
+       x="57.386932"
+       y="0"><tspan
+         x="100.81912"
+         y="324.60276"
+         id="tspan96834"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan96832">VERSICOLOR</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,81.80947,1.5976551)"
+       id="text80332-3"
+       style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect80334-6);fill:#ffffff;text-align:center"
+       x="105.23971"
+       y="0"><tspan
+         x="110.2094"
+         y="324.60276"
+         id="tspan96836">VIRGINICA</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,162.98085,0.71599434)"
+       id="text80332-5"
+       style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect80334-4);fill:#ffffff;text-align:center"
+       x="91.829247"
+       y="0"><tspan
+         x="123.16283"
+         y="324.60276"
+         id="tspan96838">SETOSA</tspan></text>
+  </g>
+</svg>

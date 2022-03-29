@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="666"
+   height="666"
+   viewBox="0 0 666 666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="SETOSA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.71510417"
+     inkscape:cx="860.71377"
+     inkscape:cy="353.79461"
+     inkscape:window-width="1586"
+     inkscape:window-height="1030"
+     inkscape:window-x="17"
+     inkscape:window-y="14"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     width="666px" />
+  <defs
+     id="defs2">
+    <rect
+       x="211.15805"
+       y="569.14785"
+       width="313.24108"
+       height="69.919883"
+       id="rect22561" />
+    <rect
+       x="757.93152"
+       y="-2297.5674"
+       width="341.20901"
+       height="68.521484"
+       id="rect5325" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="666.66669"
+       height="666.66669"
+       preserveAspectRatio="none"
+       xlink:href="img/setosa.jpg"
+       id="image17"
+       x="0.086914539"
+       y="-0.31952786" />
+    <text
+       xml:space="preserve"
+       id="text22559"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22561);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(34.959942,26.569556)"><tspan
+         x="211.1582"
+         y="605.64165"
+         id="tspan24974">SETOSA</tspan></text>
+  </g>
+</svg>
